@@ -1,0 +1,9 @@
+--
+--
+
+@import "{{ site.theme }}"
+
+.inner {
+	/* Overwrite theme's default as that's */
+	max-width: 1280px;
+}
