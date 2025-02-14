@@ -23,3 +23,11 @@ tutorial is meant as an addition to the already present [xarray tutorials](https
 Instead of focusing on the general case, this tutorial is specifically geared towards the use case of working with data that typically comes out of
 quantum chemical calculations.
 
+In addition to a general xarray introduction, we also provide examples and snippets intended to be used as copy-&-paste-able solutions to certain
+tasks you are likely to encounter.
+
+
+# Contents
+
+- [Examples](./examples/)
+- [Tutorials](./tutorials/)
