@@ -1,0 +1,5 @@
+title: "Data processing tutorials"
+description: "Tutorial(s) on how to efficiently represent, process and store multidimensional (inhomogeneous) data"
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
